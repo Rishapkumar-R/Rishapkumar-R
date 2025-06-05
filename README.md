@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Rishap kumar.R
 
 Welcome to my GitHub! I'm currently learning and building projects with:
 
